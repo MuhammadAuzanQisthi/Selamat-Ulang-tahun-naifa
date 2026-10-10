@@ -29,12 +29,12 @@ export const WISH_MESSAGES = [
   "Mawar itu merah, langit itu biru.. Aku cuma mau bilang selamat ulang tahun untukmu <3...",
   "Kamu itu kayak anggur: makin lama makin mahaaallll.. 🍇",
   "Semoga rezekimu lancar, tidak kayak sinyal pas hujan.. 📶",
-  "Traktirannya jangan lupa, aku siap hadir lahir batin.. 🍗",
   "Semoga tahun ini kamu lebih sering rebahan, tapi tetap sukses.. 🛌",
+  "kalau praktek cabut gigi jangan cabut semua nya yaaaa... gigi pasien nya... 😠",
   "Semoga senyummu selalu cerah, tidak seperti karang yang diam-diam menggerogoti.. 😁🦷",
   "Calon dokter gigi tapi lupa sikat gigi malam? Awas dimarahi dosen sendiri atau gak kena smackdown.. 🪥💪",
-  "Semoga cintamu tidak berlubang, tidak goyang, dan tidak perlu dicabut.. 💔",
   "Kamu itu spesial: satu-satunya orang yang melihat mulut orang lain sambil bilang \"wah, karangnya bagus ya\".. 🤭",
+  "kalau emosi jangan siksa pasiennnnya yaaa.. ",
   "Dokter gigi itu profesi mulia: bikin orang takut, tapi tetap dibayar.. 🤑",
 ];
 // Deprecated: do not export a component from data file. Keep data exports only.
