@@ -32,6 +32,8 @@ export const WISH_MESSAGES = [
   "Semoga tahun ini kamu lebih sering rebahan, tapi tetap sukses.. 🛌",
   "kalau praktek cabut gigi jangan cabut semua nya yaaaa... gigi pasien nya... 😠",
   "Semoga senyummu selalu cerah, tidak seperti karang yang diam-diam menggerogoti.. 😁🦷",
+  "Semoga nanti pasienmu keluar ruangan sambil senyum, bukan sambil lari.. 🏃😆",
+  "Kalau pasien tanya \"sakit nggak?\", jawabannya jangan \"nggak\" sambil pegang tang.. 🔧😅",
   "Calon dokter gigi tapi lupa sikat gigi malam? Awas dimarahi dosen sendiri atau gak kena smackdown.. 🪥💪",
   "Kamu itu spesial: satu-satunya orang yang melihat mulut orang lain sambil bilang \"wah, karangnya bagus ya\".. 🤭",
   "kalau emosi jangan siksa pasiennnnya yaaa.. ",
