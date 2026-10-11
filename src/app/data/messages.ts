@@ -36,4 +36,4 @@ export const WISH_MESSAGES = [
   "Dokter gigi itu profesi mulia: bikin orang takut, tapi tetap dibayar.. 🤑",
 ];
 
-export const WISH_PAGE_TEXT = 'Pesan dari lubuk hatiku';
+export const WISH_PAGE_TEXT = 'Pesan dari Aqis';
