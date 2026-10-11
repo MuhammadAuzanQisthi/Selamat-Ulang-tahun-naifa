@@ -1,4 +1,3 @@
-/* ---- BDAY INTRO MESSAGES ---- */
 export const INTRO_MESSAGES = {
   title: 'Apakah hari ini ulang tahunmu??',
   subtitle: 'Sesuatu yang ajaib akan segera terjadi... ✨',
@@ -7,20 +6,17 @@ export const INTRO_MESSAGES = {
   button: 'Ayo Mulai! <3',
 };
 
-/* ---- PUZZLE GAME TEXT ---- */
 export const PUZZLE_MESSAGES = {
   title: '💕 Perbaiki Hatinya 💕',
   hint: 'Potongan kiri di sebelah kiri, potongan kanan di sebelah kanan',
 };
 
-/* ---- SUCCESS SCREEN TEXT ---- */
 export const SUCCESS_MESSAGES = {
   completed: '✨ Hatimu Utuh Kembali! ✨',
   instruction: '💕 Pejamkan matamu dan buatlah permohonan yang indah... 💕',
   cta: 'Ketuk hatinya kalau kamu sudah siap melihat pesan ulang tahunmu 🐻',
 };
 
-/* ---- WISH MESSAGES ---- */
 export const WISH_MESSAGES = [
   "Makin tua, makin cetar sepuluh kali lipat.. ✨",
   "Semoga semua halu-mu jadi kenyataan.. 🌈",
@@ -39,7 +35,5 @@ export const WISH_MESSAGES = [
   "kalau emosi jangan siksa pasiennnnya yaaa.. ",
   "Dokter gigi itu profesi mulia: bikin orang takut, tapi tetap dibayar.. 🤑",
 ];
-// Deprecated: do not export a component from data file. Keep data exports only.
 
-/* ---- WISH MESSAGE PAGE TEXT ---- */
 export const WISH_PAGE_TEXT = 'Pesan dari lubuk hatiku';
